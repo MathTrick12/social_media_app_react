@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2023 11:15:45",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "August 01, 2023 11:15:45",
+      "body": "I attended a DeFi blockchain event"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "November 03, 2023 5:59:57 PM",
+      "body": "Web3 global summit next week morning \"Naga\""
+    },
+    {
+      "id": 4,
+      "title": "Welcome",
+      "datetime": "November 03, 2023 6:00:54 PM",
+      "body": "Hi this gegosoft social media app. Here Post your thoughts."
+    }
+  ]
+}
