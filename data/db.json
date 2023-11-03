@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2023 11:15:45",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "August 01, 2023 11:15:45",
+      "body": "I attended a DeFi blockchain event"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2023 11:15:45",
+      "body": "Web3 global summit next week"
+    }
+  ]
+}

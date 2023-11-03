@@ -1,0 +1,12 @@
+.post {
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid lightgray;
+  }
+  .post:first-child {
+    margin-top: 0;
+  }
+  
+  .post:last-child {
+    border-bottom: none;
+  }

@@ -1,0 +1,39 @@
+.PostPage{
+    width: 100%;
+    flex-grow: 1;
+    padding: 1rem;
+    overflow-y: auto;
+    background-color: #fff;
+  }
+  .PostPage p {
+    margin-top: 1rem;
+  }
+  .PostPage button {
+    height: 48px;
+    min-width: 48px;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+    color: #fff;
+    cursor: pointer;
+  }
+  .deleteButton{
+    background-color: red;
+  }
+  .editButton {
+    background-color: gray;
+  }
+
+  .post {
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid lightgray;
+  }
+  .post:first-child {
+    margin-top: 0;
+  }
+  
+  .post:last-child {
+    border-bottom: none;
+  }
