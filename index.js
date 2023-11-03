@@ -5,10 +5,9 @@ const server = jsonServer.create()
 const dbFilePath = path.join(__dirname, 'data', 'db.json') // Replace with the correct absolute path
 const router = jsonServer.router(dbFilePath)
 const middlewares = jsonServer.defaults()
-const port = process.env.PORT || 3500
 
 server.use(middlewares)
 server.use(router)
-server.listen(port, () => {
+server.listen(3500, () => {
   console.log('JSON Server is running', port)
 })
