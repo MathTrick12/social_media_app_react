@@ -7,7 +7,7 @@ const Missing = () => {
     <h2>Page Not Found</h2>
     <p>well, that's disappointing</p>
     <p>
-        Visit out Homepage.
+        Visit our Homepage.
     </p>
     </main>
   )
